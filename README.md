@@ -1,3 +1,4 @@
+[![MasterHead](https://giphy.com/embed/CMVC4YEfmqjAcVBxqQ))]
 <img align="right" alt="Coding" width="400" src="https://giphy.com/embed/CMVC4YEfmqjAcVBxqQ">
 <h3 align="center">Computer science student at Faculty of Technical Sciences, University of Novi Sad</h3>
 
