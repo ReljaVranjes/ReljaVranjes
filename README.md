@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/CMVC4YEfmqjAcVBxqQ" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/CMVC4YEfmqjAcVBxqQ">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/CMVC4YEfmqjAcVBxqQ">
 <h3 align="center">Computer science student at Faculty of Technical Sciences, University of Novi Sad</h3>
 
 <h3 align="left">Currently searching for internship programs.</h3>
