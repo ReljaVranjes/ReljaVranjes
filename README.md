@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/reljavranjes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reljavranjes" height="30" width="40" /></a>
 <a href="https://instagram.com/reljaaa_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reljaaa_v" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@reljavranjes8904/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="reljavranjes8904" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCEi_sk0vj22fXOsR6R6jkHQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="reljavranjes8904" height="30" width="40" /></a>
 <a href="https://discord.gg/Spuksiii#9833" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Spuksiii#9833" height="30" width="40" /></a>
 </p>
 
