@@ -1,4 +1,4 @@
-[![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODQ5MzgxY2U2ZGYyMGYxMWNjMjNjMzgzMWY5YzQ3NDMzYTgxMmNkMSZjdD1n/CMVC4YEfmqjAcVBxqQ/giphy.gif)]
+![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODQ5MzgxY2U2ZGYyMGYxMWNjMjNjMzgzMWY5YzQ3NDMzYTgxMmNkMSZjdD1n/CMVC4YEfmqjAcVBxqQ/giphy.gif)
 <img align="right" alt="Coding" width="400" src="https://giphy.com/embed/CMVC4YEfmqjAcVBxqQ">
 <h3 align="center">Computer science student at Faculty of Technical Sciences, University of Novi Sad</h3>
 
