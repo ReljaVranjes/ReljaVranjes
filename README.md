@@ -1,5 +1,5 @@
 <p align="center">
-<img src = "https://s10.gifyu.com/images/ezgif-5-9789293171.gif">
+<img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdqM3M5MWI2M29oY3E5ZWN2ODd5cGZzYjZhbmMybTg2bzhnaGg5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ItwlJxQfWeErNhTlhP/giphy.webp">
 </p>
 <h3 align="center">Computer science student at Faculty of Technical Sciences, University of Novi Sad</h3>
 
