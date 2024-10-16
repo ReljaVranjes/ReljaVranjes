@@ -1,5 +1,5 @@
 <p align="center">
-<img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdqM3M5MWI2M29oY3E5ZWN2ODd5cGZzYjZhbmMybTg2bzhnaGg5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ItwlJxQfWeErNhTlhP/giphy.webp">
+<img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQxbGpleGt1cHRoM2FhYnUxNnBvZXE5aWs1azZsbzY1dnRzazRmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDPRj2cHn1b4ZAHaJr/giphy.webp">
 </p>
 <h3 align="center">Computer science student at Faculty of Technical Sciences, University of Novi Sad</h3>
 
