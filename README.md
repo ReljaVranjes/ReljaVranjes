@@ -1,5 +1,5 @@
 <p align="center">
-  <img src = "https://s11.gifyu.com/images/SONiR.gif">
+  <img src = "https://streamable.com/anhws6">
 </p>
 <h3 align="center">Computer science student at Faculty of Technical Sciences, University of Novi Sad</h3>
 
