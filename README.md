@@ -1,5 +1,5 @@
 <p align="center">
-  <img src = "https://streamable.com/anhws6">
+  <img src = "https://streamable.com/e/anhws6?quality=highest">
 </p>
 <h3 align="center">Computer science student at Faculty of Technical Sciences, University of Novi Sad</h3>
 
