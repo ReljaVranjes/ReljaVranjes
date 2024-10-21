@@ -1,5 +1,5 @@
 <p align="center">
-  <img src = "">
+  <img src = "https://www.canva.com/design/DAGUL15yV5E/uUUp7rYjxv4e-PShL7pa5Q/watch?utm_content=DAGUL15yV5E&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel">
 </p>
 <h3 align="center">Computer science student at Faculty of Technical Sciences, University of Novi Sad</h3>
 
