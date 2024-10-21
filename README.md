@@ -1,5 +1,5 @@
 <p align="center">
-  <img src = "https://s4.ezgif.com/tmp/ezgif-4-056ccbcef6.gif">
+  <img src = "https://s4.ezgif.com/tmp/ezgif-4-c2392bd503.gif">
 </p>
 <h3 align="center">Computer science student at Faculty of Technical Sciences, University of Novi Sad</h3>
 
