@@ -1,4 +1,4 @@
-
+<img src="https://s11.gifyu.com/images/SyQba.gif">
 <h3 align="center">Computer science student at Faculty of Technical Sciences, University of Novi Sad</h3>
 
 <h3 align="center">Connect with me:</h3>
